@@ -17,16 +17,16 @@ In preparation for predictive modeling (logistic regression, random forests) for
 
 ### Data Analysis:
 
-![img](images\roc baseline vs dummy output.png)
+![img](images/roc baseline vs dummy output.png)
 
 
-![img](images\roc baseline after gridsearch output.png)
+![img](images/roc baseline after gridsearch output.png)
 
 
-![img](images\ROC random forest gridseaerch.png)
+![img](images/ROC random forest gridseaerch.png)
 
 
-![img](images\roc_after gridsearch and feature selection output.png)
+![img](images/roc_after gridsearch and feature selection output.png)
 
 
 
