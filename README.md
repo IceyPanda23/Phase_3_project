@@ -2,7 +2,7 @@
 
 In this project, we're building a classifier to predict customer churn for SyriaTel, a telecommunications company. By analyzing customer behavior data, our goal is to identify patterns that indicate whether a customer is likely to discontinue their services soon. With a focus on binary classification, our aim is to help SyriaTel reduce revenue loss by enabling proactive retention strategies. Through this analysis, we seek to uncover actionable insights to optimize customer retention efforts and enhance profitability.
 
-![img](images\happy_sad.jpg)
+![img](images/happy_sad.jpg)
 
 ### Business Understanding:
 
