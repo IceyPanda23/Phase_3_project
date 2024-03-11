@@ -23,6 +23,9 @@ In preparation for predictive modeling (logistic regression, random forests) for
 ![img](images/rocbaseline_after_gridsearch_output.png)
 
 
+![img](images/roc_logreg_smote_gridsearch_output.png)
+
+
 ![img](images/ROC_random_forest_gridseaerch.png)
 
 
