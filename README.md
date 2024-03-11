@@ -36,4 +36,7 @@ In preparation for predictive modeling (logistic regression, random forests) for
 ### Conclusions:
 
 
+![Alt text](images/stop_churnin.jpg)
+
+
 The optimized random forest model outperformed other models in predicting customer churn, boasting a weighted average precision, recall, and accuracy of 95% and an F1 score of 95%. Compared to logistic regression, which scored 90% in all metrics, the optimized random forest model showed a 5% improvement. Additionally, its AUC of 99% surpassed logistic regression's 96%, reinforcing its superiority. Hence, the optimized random forest model is the recommended choice for predicting customer churn.
