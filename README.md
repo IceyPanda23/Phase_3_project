@@ -33,6 +33,13 @@ In preparation for predictive modeling (logistic regression, random forests) for
 
 
 
+
+### Evaluation:
+
+
+The F1 score was chosen for its ability to balance recall and precision, crucial in predicting customer churn. By optimizing this metric, the selected model achieves equilibrium between capturing true positives and minimizing false alarms, enhancing its effectiveness in real-world scenarios where both precision and recall are essential considerations. The comprehensive evaluation reveals the superiority of the optimized random forest model over other models like the baseline logistic regression and random forest baseline models. Leveraging robust feature selection, including account length, international plan status, and voicemail usage, the model provides valuable insights into churn drivers. With a weighted average precision, recall, and accuracy of 95% and an impressive F1 score of 95%, the model outperforms logistic regression models by 5% across all metrics. Furthermore, the optimized random forest model demonstrates superior discriminative ability with an AUC of 99%, significantly higher than the logistic regression model's 96%. In summary, deploying the optimized random forest model enables SyriaTel to proactively address churn risk, implement targeted retention strategies, and improve customer satisfaction and loyalty.
+
+
 ### Conclusions:
 
 
